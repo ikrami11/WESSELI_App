@@ -1,0 +1,8 @@
+<?php return array (
+  0 => '0555555555',
+  1 => 'admin@esi.dz',
+  2 => 'fb.colis',
+  3 => 'twt.colis',
+  4 => 'ig.colis',
+  5 => 'snap.colis',
+);
